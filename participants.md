@@ -3,7 +3,7 @@
 * Ernst Kuzorra
 * Otto Krawuttke
 * Big Bird
-* Maximilian Nöthe
+* Max Nöthe
 * Joshua Luckey
 * Krümmelmonster
 * Peter Silie
